@@ -13,13 +13,13 @@ _collection = None
 def _get_model():
     global _model
     if _model is None:
-        device = "cuda"
+        device = "cpu"
         try:
             import torch
-            if not torch.cuda.is_available():
-                device = "cpu"
+            if torch.cuda.is_available():
+                device = "cuda"
         except:
-            device = "cpu"
+            pass
         _model = SentenceTransformer('all-MiniLM-L6-v2', device=device)
     return _model
 

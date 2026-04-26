@@ -19,8 +19,15 @@ def seed():
     collection = client.create_collection(name="candidates")
     
     # Load embedding model to GPU
-    print("🎸 Loading SentenceTransformer on GPU...")
-    model = SentenceTransformer('all-MiniLM-L6-v2', device='cuda')
+    device = "cpu"
+    try:
+        import torch
+        if torch.cuda.is_available():
+            device = "cuda"
+    except:
+        pass
+    print(f"🎸 Loading SentenceTransformer on {device.upper()}...")
+    model = SentenceTransformer('all-MiniLM-L6-v2', device=device)
     print("   Model loaded ✅\n")
     
     candidate_dir = "data/candidates"
