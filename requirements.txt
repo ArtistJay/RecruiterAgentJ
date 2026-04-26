@@ -1,0 +1,36 @@
+# Agent Framework
+langgraph
+langchain
+langchain-groq
+langchain-community
+langchain-ollama
+
+# Vector DB
+chromadb
+
+# Embeddings
+sentence-transformers
+
+# Frontend
+streamlit
+
+# Data handling
+pydantic
+python-dotenv
+
+# GPU support (CUDA 12.4 — match your driver)
+--extra-index-url https://download.pytorch.org/whl/cu124
+torch
+
+# PDF support
+PyPDF2
+
+pymupdf>=1.24.0
+ocrmypdf>=16.0.0
+
+# Dev utilities
+rich
+plotly>=5.18.0
+
+langchain-openai>=0.3.0
+pandas>=2.0.0

@@ -1,0 +1,39 @@
+{
+  "name": "Rohan Sharma",
+  "current_role": "Agentic AI Engineer",
+  "company": "Nexus AI Labs",
+  "years_experience": 0,
+  "skills": [
+    "Agentic Systems",
+    "Multi-Agent Frameworks",
+    "LangGraph",
+    "CrewAI",
+    "Autonomous Agents",
+    "Prompt Engineering",
+    "Python",
+    "LangChain",
+    "Tool Integration",
+    "System Design",
+    "Error Analysis",
+    "Memory Management",
+    "Re\ue005ection Loops",
+    "API Integration"
+  ],
+  "experience_summary": "Agentic AI Engineer specializing in building autonomous multi-agent systems that plan, reason, and execute complex tasks with minimal human intervention. Expert in tool integration, memory management, re\ue005ection loops, and production-grade self-correcting work\ue005ows.",
+  "personality_traits": [
+    "End-to-End Automation",
+    "Production Reliability",
+    "Fast Prototyping",
+    "Independent Execution",
+    "Safety & Alignment"
+  ],
+  "notice_period": "Unknown",
+  "expected_salary_lpa": 0,
+  "current_salary_lpa": 0,
+  "preferred_location": "India",
+  "open_to_remote": true,
+  "career_goals": "Building autonomous multi-agent systems that plan, reason, and execute complex tasks with minimal human intervention.",
+  "willingness_to_relocate": true,
+  "candidate_id": "CAND-0006",
+  "resume_filename": "C01.pdf"
+}

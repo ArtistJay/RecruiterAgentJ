@@ -1,0 +1,30 @@
+Senior Frontend Developer (React)
+
+About Us:
+We are a Series B fintech startup in Mumbai building the next generation of digital banking experiences for millions of users.
+
+Role:
+We need a Senior Frontend Developer to own our customer-facing web applications. You'll work closely with designers and backend engineers to ship pixel-perfect, performant UIs.
+
+Requirements:
+- 3-6 years of frontend development experience
+- Expert-level React.js and TypeScript
+- Strong CSS/SCSS skills, responsive design
+- Experience with state management (Redux, Zustand, or similar)
+- Familiarity with REST APIs and GraphQL
+- Unit testing (Jest, React Testing Library)
+- Git workflow and CI/CD basics
+
+Nice to have:
+- Next.js or server-side rendering experience
+- Design system or component library creation
+- Performance optimization and Lighthouse scores
+- Mobile-first development experience
+
+Education:
+B.Tech or equivalent in Computer Science or related field.
+
+Location: Mumbai (Hybrid — 2 days in office)
+Salary: 18-32 LPA based on experience
+
+We move fast and ship weekly. Looking for builders, not perfectionists.

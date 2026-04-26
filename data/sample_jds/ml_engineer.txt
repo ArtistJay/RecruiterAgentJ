@@ -1,0 +1,29 @@
+Senior Machine Learning Engineer
+
+About Us:
+We are a fast-growing AI startup based in Bangalore building next-generation NLP solutions for enterprise customers.
+
+Role:
+We are looking for a Senior Machine Learning Engineer to lead our ML pipeline development. You will work on large-scale NLP models, deploy them to production, and mentor junior engineers.
+
+Requirements:
+- 4-8 years of experience in Machine Learning or related field
+- Strong proficiency in Python, PyTorch or TensorFlow
+- Experience with NLP (transformers, BERT, GPT-family models)
+- Familiarity with MLOps tools (MLflow, Kubeflow, or similar)
+- Experience deploying ML models to production (Docker, Kubernetes)
+- Strong understanding of statistics and probability
+
+Nice to have:
+- Experience with LLMs and prompt engineering
+- Published research papers in ML/NLP
+- Experience with distributed training
+- Knowledge of cloud platforms (AWS/GCP)
+
+Education:
+M.Tech or PhD in Computer Science, Mathematics, or related field preferred. B.Tech with strong experience also considered.
+
+Location: Bangalore (Hybrid — 3 days in office)
+Salary: 25-45 LPA based on experience
+
+We value curiosity, ownership, and a bias for action.

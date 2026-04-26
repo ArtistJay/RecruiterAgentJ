@@ -1,0 +1,37 @@
+{
+  "name": "Priya Menon",
+  "current_role": "Machine Learning Engineer",
+  "company": "TechNova AI",
+  "years_experience": 0,
+  "skills": [
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "MLOps",
+    "Kubernetes",
+    "Deep Learning",
+    "Model Optimization",
+    "Computer Vision",
+    "NLP",
+    "MLflow",
+    "Docker",
+    "Quantization",
+    "LoRA / QLoRA"
+  ],
+  "experience_summary": "Machine Learning Engineer with strong expertise in building scalable deep learning models, MLOps pipelines, and production-grade AI systems. Focused on computer vision, NLP, and recommendation engines with emphasis on model efficiency and real-time inference.",
+  "personality_traits": [
+    "Scalable Model Deployment",
+    "Production Inference",
+    "Performance Optimization",
+    "Data-Driven Decisions"
+  ],
+  "notice_period": "Unknown",
+  "expected_salary_lpa": 0,
+  "current_salary_lpa": 0,
+  "preferred_location": "India",
+  "open_to_remote": true,
+  "career_goals": "Short summary of goals",
+  "willingness_to_relocate": true,
+  "candidate_id": "CAND-0009",
+  "resume_filename": "C02.pdf"
+}

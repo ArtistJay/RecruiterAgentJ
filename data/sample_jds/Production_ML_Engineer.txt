@@ -1,0 +1,38 @@
+Role: Senior Machine Learning Engineer (Production & MLOps)
+Company: NeuralStream AI
+Location: Bangalore / Remote
+
+About the Role:
+NeuralStream is looking for a Production-focused ML Engineer who excels at moving models from research to high-scale deployment. We need someone who cares as much about latency and model pruning as they do about accuracy.
+
+Key Responsibilities:
+
+Build and maintain MLOps pipelines to reduce deployment cycles.
+
+Optimize deep learning models for real-time inference (sub-100ms) serving millions of users.
+
+Implement model optimization techniques like quantization, pruning, and LoRA.
+
+Orchestrate AI services using Kubernetes, Docker, and Kubeflow.
+
+Collaborate on computer vision and NLP pipelines for industrial and enterprise applications.
+
+Required Skills & Experience:
+
+3+ years of experience as an ML Engineer in a production environment.
+
+Deep expertise in Python, PyTorch, and TensorFlow.
+
+Hands-on experience with MLflow, Kubeflow, and Kubernetes.
+
+Expert knowledge of Computer Vision (object detection) and NLP (Transformers).
+
+Proven ability to reduce inference costs and fine-tuning time using PEFT/LoRA.
+
+Nice to Have:
+
+Research background from top institutes (e.g., IISc, IITs).
+
+Experience building recommendation engines for high-traffic platforms.
+
+Deep understanding of model quantization for edge or low-cost deployment.

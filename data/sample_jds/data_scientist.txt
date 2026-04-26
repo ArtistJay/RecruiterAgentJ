@@ -1,0 +1,31 @@
+Data Scientist — Healthcare AI
+
+About Us:
+We are a health-tech company in Hyderabad using AI to improve patient outcomes through predictive analytics and clinical decision support systems.
+
+Role:
+We are hiring a Data Scientist to work on predictive models for disease progression, treatment optimization, and clinical trial matching. You will work with real-world health data and collaborate closely with clinicians.
+
+Requirements:
+- 3-7 years of experience in data science or applied ML
+- Strong Python skills (pandas, scikit-learn, NumPy)
+- Experience with statistical modeling and hypothesis testing
+- Familiarity with deep learning frameworks (PyTorch or TensorFlow)
+- Experience working with tabular and time-series data
+- SQL proficiency
+- Excellent data visualization skills (matplotlib, seaborn, or Plotly)
+
+Nice to have:
+- Healthcare or biotech domain experience
+- Experience with HIPAA-compliant data handling
+- Knowledge of survival analysis or clinical trial design
+- Published research in healthcare AI
+- Experience with cloud platforms (AWS SageMaker, GCP Vertex)
+
+Education:
+M.Tech, MS, or PhD in Data Science, Statistics, Biostatistics, or related field preferred.
+
+Location: Hyderabad (On-site)
+Salary: 20-40 LPA based on experience
+
+We believe AI can save lives. Come build with us.

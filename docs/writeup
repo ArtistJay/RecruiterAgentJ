@@ -1,0 +1,54 @@
+markdown
+
+# agentJ: One-Page Architecture & Trade-offs
+
+## What It Does
+agentJ takes a raw Job Description, parses it into structured requirements, discovers matching candidates via semantic search, simulates recruiter-candidate conversations to gauge genuine interest, and outputs a ranked shortlist with explainable scores and one-click hire emails.
+
+## Architecture
+A 4-agent LangGraph pipeline with **conditional routing** and **adaptive behavior**:
+
+START → InParseGent → ScoutGent → [ConvoGent | SkipGent] → FinalGent → Ranked Output
+
+
+- **InParseGent** (Llama 3.1-8B / GPT-4.1-nano): Extracts structured JD fields. Self-corrects — validates its own output, re-prompts with a stricter prompt if fields are missing, and merges the fix automatically.
+- **ScoutGent** (Llama 4 Scout 17B / GPT-4.1-mini): Semantic vector search via ChromaDB (local GPU embeddings) + LLM-scored 5-factor evaluation with per-factor explanations.
+- **Conditional Router**: Evaluates match quality. If no candidate scores above 25/100, routes to SkipGent — skipping expensive conversations entirely. Autonomous cost-saving decision.
+- **ConvoGent** (Llama 3.3-70B + Qwen3-32B / GPT-4.1 + GPT-4.1-mini): Simulates multi-turn conversations (2–10 turns, configurable via UI). After each turn, a separate scoring LLM self-evaluates: *"Do I have enough information to score this candidate?"* — and stops early if yes. A 6-turn max conversation may complete in 3 turns.
+- **FinalGent** (Llama 3.1-8B / GPT-4.1-nano): Combines Match + Interest scores, produces ranked recommendations with risk factors, next steps, and one-click personalized hire emails.
+
+## What Makes This an Agent, Not a Pipeline
+Three autonomous decisions at runtime:
+1. **Self-Correction** — InParseGent detects and fixes its own incomplete outputs
+2. **Conditional Routing** — ScoutGent decides whether conversations are worth running
+3. **Adaptive Stopping** — ConvoGent decides when it has gathered enough information
+
+## Scoring
+- **Match Score** = 40% Skills + 25% Experience + 15% Education + 10% Location + 10% Bonus
+- **Interest Score** = 30% Enthusiasm + 25% Availability + 20% Salary Fit + 15% Role Fit − 10% Red Flags
+- **Combined** = 60% Match + 40% Interest *(adjustable via UI slider in real-time)*
+
+## Key Trade-offs
+
+| Decision | Why |
+|----------|-----|
+| 5 different LLMs across agents | Optimizes free tier budget: 8B for simple extraction, 70B for nuanced conversation, 32B for structured scoring |
+| Local GPU embeddings (sentence-transformers) | Zero token cost, zero latency, candidate data never leaves the machine |
+| Simulated conversations before real outreach | Surfaces red flags (salary mismatch, notice period, skill gaps) before recruiter spends time |
+| Self-correction over rigid validation | Handles messy/incomplete JDs gracefully — retries intelligently instead of failing |
+| Conditional routing (SkipGent) | Avoids burning expensive 70B conversation tokens on candidates who clearly don't match |
+| Adaptive turn stopping | Efficient — doesn't ask redundant questions when the agent already has enough signal |
+| Dual ingestion (PDF + JSON) | Handles real-world CVs (with OCR for scanned docs) and structured data from HR systems |
+
+## What I'd Improve With More Time
+- Parallel conversation fan-out (currently sequential due to rate limits)
+- Real candidate database integration (LinkedIn API, ATS webhooks)
+- Human-in-the-loop review step before final ranking
+- Fine-tuned scoring weights from historical hiring outcomes
+- Deployed live instance with pre-seeded candidate pool
+
+## Tech Stack
+LangGraph · Groq (Llama 3.3-70B, Llama 4 Scout 17B, Qwen3-32B, Llama 3.1-8B) · OpenAI (GPT-4.1 family) · ChromaDB · Sentence-Transformers (CUDA) · PyMuPDF + OCRmyPDF · Streamlit + Plotly
+
+---
+Built by **Jay Patel** (PhD Scholar, IIT Hyderabad) for Deccan AI Catalyst Hackathon 2026

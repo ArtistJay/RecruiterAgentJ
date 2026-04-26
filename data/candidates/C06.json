@@ -1,0 +1,29 @@
+{
+  "name": "Amit Kulkarni",
+  "current_role": "CFD Researcher",
+  "company": "Wind Engineering Lab, IIT Bombay",
+  "years_experience": 2,
+  "skills": [
+    "OpenFOAM",
+    "Large Eddy Simulation",
+    "MPI / OpenMP",
+    "C++",
+    "Fortran",
+    "Turbulence Modeling",
+    "Parallel Computing",
+    "Grid Generation",
+    "Validation & Verification",
+    "ANSYS Fluent"
+  ],
+  "experience_summary": "CFD researcher specializing in high-fidelity Large Eddy Simulation of turbulent flows over complex terrain. Expertise in immersed boundary methods, parallel computing, and validation against experimental data.",
+  "personality_traits": [],
+  "notice_period": "Unknown",
+  "expected_salary_lpa": 0,
+  "current_salary_lpa": 0,
+  "preferred_location": "India",
+  "open_to_remote": false,
+  "career_goals": "Short summary of goals",
+  "willingness_to_relocate": false,
+  "candidate_id": "CAND-0002",
+  "resume_filename": "C06.pdf"
+}

@@ -1,0 +1,1045 @@
+{
+  "raw_jd": "Senior Machine Learning Engineer\n\nAbout Us:\nWe are a fast-growing AI startup based in Bangalore building next-generation NLP solutions for enterprise customers.\n\nRole:\nWe are looking for a Senior Machine Learning Engineer to lead our ML pipeline development. You will work on large-scale NLP models, deploy them to production, and mentor junior engineers.\n\nRequirements:\n- 4-8 years of experience in Machine Learning or related field\n- Strong proficiency in Python, PyTorch or TensorFlow\n- Experience with NLP (transformers, BERT, GPT-family models)\n- Familiarity with MLOps tools (MLflow, Kubeflow, or similar)\n- Experience deploying ML models to production (Docker, Kubernetes)\n- Strong understanding of statistics and probability\n\nNice to have:\n- Experience with LLMs and prompt engineering\n- Published research papers in ML/NLP\n- Experience with distributed training\n- Knowledge of cloud platforms (AWS/GCP)\n\nEducation:\nM.Tech or PhD in Computer Science, Mathematics, or related field preferred. B.Tech with strong experience also considered.\n\nLocation: Bangalore (Hybrid \u2014 3 days in office)\nSalary: 25-45 LPA based on experience\n\nWe value curiosity, ownership, and a bias for action.\n",
+  "parsed_jd": {
+    "job_title": "Senior Machine Learning Engineer",
+    "company": "Not specified",
+    "must_have_skills": [
+      "Python",
+      "PyTorch",
+      "TensorFlow",
+      "NLP (transformers, BERT, GPT-family models)",
+      "MLOps tools (MLflow, Kubeflow or similar)",
+      "Deploying ML models to production (Docker, Kubernetes)",
+      "Statistics and probability"
+    ],
+    "nice_to_have_skills": [
+      "LLMs and prompt engineering",
+      "Published research papers in ML/NLP",
+      "Distributed training",
+      "Cloud platforms (AWS/GCP)"
+    ],
+    "min_experience_years": 4,
+    "max_experience_years": 8,
+    "education_required": "M.Tech or PhD in Computer Science, Mathematics, or related field; B.Tech with strong experience also considered",
+    "location": "Bangalore",
+    "remote_ok": true,
+    "salary_range": "25-45 LPA",
+    "key_responsibilities": [
+      "Lead ML pipeline development",
+      "Work on large-scale NLP models",
+      "Deploy models to production",
+      "Mentor junior engineers"
+    ],
+    "seniority_level": "Senior",
+    "industry_domain": "AI/NLP/Enterprise Software"
+  },
+  "matched_candidates": [
+    {
+      "candidate_id": "CAND-0009",
+      "name": "Priya Menon",
+      "current_role": "Machine Learning Engineer",
+      "company": "TechNova AI",
+      "skills": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "MLOps",
+        "Kubernetes",
+        "Deep Learning",
+        "Model Optimization",
+        "Computer Vision",
+        "NLP",
+        "MLflow",
+        "Docker",
+        "Quantization",
+        "LoRA / QLoRA"
+      ],
+      "years_experience": 0,
+      "education": {},
+      "preferred_location": "India",
+      "notice_period": "Unknown",
+      "expected_salary_lpa": 0,
+      "current_salary_lpa": 0,
+      "career_goals": "Short summary of goals",
+      "personality_traits": [
+        "Scalable Model Deployment",
+        "Production Inference",
+        "Performance Optimization",
+        "Data-Driven Decisions"
+      ],
+      "open_to_remote": true,
+      "experience_summary": "Machine Learning Engineer with strong expertise in building scalable deep learning models, MLOps pipelines, and production-grade AI systems. Focused on computer vision, NLP, and recommendation engines with emphasis on model efficiency and real-time inference.",
+      "willingness_to_relocate": true,
+      "match_score": 37.0,
+      "score_breakdown": {
+        "skills": 70,
+        "experience": 0,
+        "education": 0,
+        "location": 50,
+        "bonus": 40
+      },
+      "strengths": [
+        "Strong hands-on skills in core ML frameworks (PyTorch, TensorFlow)",
+        "Experience with MLOps tools like MLflow, Docker, Kubernetes",
+        "Focus on scalable, production-grade AI systems and NLP"
+      ],
+      "gaps": [
+        "No professional experience (0 years) for a senior role",
+        "Missing explicit education credentials",
+        "No clear evidence of working with transformers/BERT/GPT-family models or statistics/probability"
+      ],
+      "overall_assessment": "Priya has strong technical skills aligned with many must-have requirements but lacks the required professional experience and clear educational background for a senior position. Location and some specific skills gaps further reduce fit for this role.",
+      "explanations": {
+        "skills": "Candidate has strong skills in Python, PyTorch, TensorFlow, NLP, MLOps tools (MLflow), Docker, and Kubernetes. Missing explicit mention of transformers, BERT, GPT-family models, and statistics/probability knowledge. Also, no direct mention of Kubeflow or similar MLOps tools beyond MLflow and Kubernetes.",
+        "experience": "Candidate has 0 years of experience, which is significantly below the required 4-8 years for a senior role.",
+        "education": "Education details are missing or incomplete, so cannot assess fit against M.Tech, PhD, or B.Tech requirements.",
+        "location": "Candidate is located in India and open to remote work, but not specifically in Bangalore as required.",
+        "bonus": "Candidate shows knowledge of LoRA/QLoRA (related to LLMs), model optimization, and production-grade AI systems, which are relevant. No mention of published research, distributed training, or cloud platforms like AWS/GCP."
+      }
+    },
+    {
+      "candidate_id": "CAND-0011",
+      "name": "Priya Menon",
+      "current_role": "Machine Learning Engineer",
+      "company": "TechNova AI",
+      "skills": [
+        "Machine Learning",
+        "Deep Learning",
+        "Model Deployment",
+        "Computer Vision",
+        "NLP",
+        "Recommendation Engines",
+        "MLOps",
+        "Kubernetes",
+        "PyTorch",
+        "TensorFlow",
+        "MLflow",
+        "Docker",
+        "Quantization",
+        "LoRA",
+        "QLoRA"
+      ],
+      "years_experience": 0,
+      "education": null,
+      "preferred_location": "India",
+      "notice_period": "Unknown",
+      "expected_salary_lpa": 0,
+      "current_salary_lpa": 0,
+      "career_goals": "Short summary of goals",
+      "personality_traits": null,
+      "open_to_remote": true,
+      "experience_summary": "Machine Learning Engineer with strong expertise in building scalable deep learning models, MLOps pipelines, and production-grade AI systems. Focused on computer vision, NLP, and recommendation engines with emphasis on model efficiency and real-time inference.",
+      "willingness_to_relocate": true,
+      "match_score": 37.0,
+      "score_breakdown": {
+        "skills": 70,
+        "experience": 0,
+        "education": 0,
+        "location": 50,
+        "bonus": 40
+      },
+      "strengths": [
+        "Strong hands-on skills with PyTorch, TensorFlow, MLflow, Kubernetes, Docker",
+        "Experience in NLP and MLOps pipelines",
+        "Focus on scalable and production-grade AI systems"
+      ],
+      "gaps": [
+        "No professional experience (0 years) for senior role",
+        "No formal education credentials",
+        "Missing explicit experience with transformers (BERT, GPT-family) and statistics/probability",
+        "Location not Bangalore"
+      ],
+      "overall_assessment": "Priya demonstrates strong technical skills relevant to the role but lacks the required professional experience and formal education for a senior position. Location and some specific NLP expertise gaps further reduce fit. Suitable for more junior roles or internships rather than this senior role.",
+      "explanations": {
+        "skills": "Candidate has strong skills in Python-related ML frameworks PyTorch and TensorFlow, NLP, MLOps tools like MLflow, Kubernetes, Docker, and model deployment. Missing explicit mention of transformers, BERT, GPT-family models, and statistics/probability knowledge.",
+        "experience": "Candidate has 0 years of experience, which is far below the required 4-8 years for a senior role.",
+        "education": "No formal education listed, whereas the job requires M.Tech or PhD, or at least B.Tech with strong experience.",
+        "location": "Candidate is located in India and open to remote work, but not explicitly in Bangalore as required.",
+        "bonus": "Has domain experience in NLP and MLOps, and knowledge of advanced model efficiency techniques like Quantization, LoRA, QLoRA. No mention of published research, distributed training, or cloud platforms."
+      }
+    },
+    {
+      "candidate_id": "CAND-0006",
+      "name": "Rohan Sharma",
+      "current_role": "Agentic AI Engineer",
+      "company": "Nexus AI Labs",
+      "skills": [
+        "Agentic Systems",
+        "Multi-Agent Frameworks",
+        "LangGraph",
+        "CrewAI",
+        "Autonomous Agents",
+        "Prompt Engineering",
+        "Python",
+        "LangChain",
+        "Tool Integration",
+        "System Design",
+        "Error Analysis",
+        "Memory Management",
+        "Re\ue005ection Loops",
+        "API Integration"
+      ],
+      "years_experience": 0,
+      "education": {},
+      "preferred_location": "India",
+      "notice_period": "Unknown",
+      "expected_salary_lpa": 0,
+      "current_salary_lpa": 0,
+      "career_goals": "Building autonomous multi-agent systems that plan, reason, and execute complex tasks with minimal human intervention.",
+      "personality_traits": [
+        "End-to-End Automation",
+        "Production Reliability",
+        "Fast Prototyping",
+        "Independent Execution",
+        "Safety & Alignment"
+      ],
+      "open_to_remote": true,
+      "experience_summary": "Agentic AI Engineer specializing in building autonomous multi-agent systems that plan, reason, and execute complex tasks with minimal human intervention. Expert in tool integration, memory management, re\ue005ection loops, and production-grade self-correcting work\ue005ows.",
+      "willingness_to_relocate": true,
+      "match_score": 18.0,
+      "score_breakdown": {
+        "skills": 30,
+        "experience": 0,
+        "education": 0,
+        "location": 40,
+        "bonus": 20
+      },
+      "strengths": [
+        "Strong expertise in autonomous multi-agent systems and agentic AI",
+        "Experience with prompt engineering and tool integration",
+        "Proficient in Python and system design"
+      ],
+      "gaps": [
+        "No experience with PyTorch, TensorFlow, or core NLP transformer models",
+        "No MLOps or production deployment experience",
+        "No professional experience and unclear education background",
+        "Not located in Bangalore"
+      ],
+      "overall_assessment": "Rohan shows promising skills in agentic AI and prompt engineering with Python proficiency, but lacks critical must-have skills, professional experience, and clear educational qualifications required for a Senior Machine Learning Engineer role. The candidate is not a fit for this position at this time.",
+      "explanations": {
+        "skills": "Candidate has Python and prompt engineering skills relevant to NLP, but lacks explicit experience with PyTorch, TensorFlow, core NLP models like transformers/BERT/GPT, MLOps tools (MLflow, Kubeflow), and deploying ML models with Docker/Kubernetes. No mention of statistics or probability knowledge.",
+        "experience": "Candidate has 0 years of professional experience, which is well below the required 4-8 years for a senior role.",
+        "education": "No education details provided; unable to verify if candidate meets minimum education requirements (M.Tech/PhD or strong B.Tech).",
+        "location": "Candidate is located in India and open to remote work, but not specifically in Bangalore as required. Partial compatibility due to remote openness.",
+        "bonus": "Candidate has prompt engineering experience and expertise in autonomous multi-agent systems, which is somewhat relevant to LLMs and advanced AI domains. No published research or cloud platform experience mentioned."
+      }
+    },
+    {
+      "candidate_id": "CAND-0003",
+      "name": "Arjun Rao",
+      "current_role": "Quantitative Finance Analyst",
+      "company": "FinEdge Capital",
+      "skills": [
+        "Financial Modeling",
+        "DCF Valuation",
+        "Python",
+        "Excel Advanced",
+        "API Integration",
+        "Quantitative Analysis",
+        "Risk Management",
+        "Algorithmic Trading",
+        "Bloomberg Terminal",
+        "Machine Learning",
+        "Data Visualization"
+      ],
+      "years_experience": 0,
+      "education": {},
+      "preferred_location": "India",
+      "notice_period": "Unknown",
+      "expected_salary_lpa": 0,
+      "current_salary_lpa": 0,
+      "career_goals": "Short summary of goals",
+      "personality_traits": [
+        "Investment Decision Support",
+        "Portfolio Optimization",
+        "Risk Analysis"
+      ],
+      "open_to_remote": true,
+      "experience_summary": "Quantitative Finance professional with expertise in financial modeling, algorithmic trading, and data-driven investment strategies. Combines strong analytical skills with Python automation and API integrations to deliver high-impact insights for portfolio management and risk analysis.",
+      "willingness_to_relocate": true,
+      "match_score": 13.0,
+      "score_breakdown": {
+        "skills": 20,
+        "experience": 0,
+        "education": 0,
+        "location": 50,
+        "bonus": 0
+      },
+      "strengths": [
+        "Strong Python skills",
+        "Analytical and quantitative background",
+        "Open to remote work"
+      ],
+      "gaps": [
+        "No ML framework expertise (PyTorch, TensorFlow)",
+        "No NLP or transformer experience",
+        "No MLOps or deployment skills",
+        "No relevant experience or education details"
+      ],
+      "overall_assessment": "Arjun Rao has a strong quantitative and Python background but lacks the required machine learning engineering skills, NLP expertise, and relevant experience for this senior role. Without evidence of core ML frameworks, MLOps, or education credentials, he is not a fit for the position at this time.",
+      "explanations": {
+        "skills": "Candidate has Python and some general machine learning knowledge but lacks all core ML frameworks (PyTorch, TensorFlow), NLP-specific skills (transformers, BERT, GPT-family), MLOps tools, and production deployment experience.",
+        "experience": "No relevant experience in machine learning engineering or NLP; current role is in quantitative finance with 0 years of ML engineering experience.",
+        "education": "Education details are missing; no indication of M.Tech, PhD, or B.Tech in relevant fields.",
+        "location": "Candidate is located in India and open to remote work, but not specifically in Bangalore; partial alignment.",
+        "bonus": "No evidence of nice-to-have skills such as LLMs, published research, distributed training, or cloud platform experience."
+      }
+    },
+    {
+      "candidate_id": "CAND-0002",
+      "name": "Amit Kulkarni",
+      "current_role": "CFD Researcher",
+      "company": "Wind Engineering Lab, IIT Bombay",
+      "skills": [
+        "OpenFOAM",
+        "Large Eddy Simulation",
+        "MPI / OpenMP",
+        "C++",
+        "Fortran",
+        "Turbulence Modeling",
+        "Parallel Computing",
+        "Grid Generation",
+        "Validation & Verification",
+        "ANSYS Fluent"
+      ],
+      "years_experience": 2,
+      "education": {},
+      "preferred_location": "India",
+      "notice_period": "Unknown",
+      "expected_salary_lpa": 0,
+      "current_salary_lpa": 0,
+      "career_goals": "Short summary of goals",
+      "personality_traits": [],
+      "open_to_remote": false,
+      "experience_summary": "CFD researcher specializing in high-fidelity Large Eddy Simulation of turbulent flows over complex terrain. Expertise in immersed boundary methods, parallel computing, and validation against experimental data.",
+      "willingness_to_relocate": false,
+      "match_score": 12.25,
+      "score_breakdown": {
+        "skills": 5,
+        "experience": 15,
+        "education": 10,
+        "location": 50,
+        "bonus": 0
+      },
+      "strengths": [
+        "Strong parallel computing and HPC experience",
+        "Solid research background from IIT Bombay"
+      ],
+      "gaps": [
+        "No ML/NLP skills or experience",
+        "Insufficient years of experience",
+        "No relevant education details",
+        "Not located in Bangalore or open to remote"
+      ],
+      "overall_assessment": "Amit Kulkarni's profile is focused on CFD research with strong parallel computing skills but lacks any relevant machine learning, NLP, or MLOps experience. The candidate does not meet the seniority, skillset, or location requirements for the Senior Machine Learning Engineer role.",
+      "explanations": {
+        "skills": "Candidate's skills are primarily in CFD, parallel computing (MPI/OpenMP), and C++/Fortran. No evidence of Python, PyTorch, TensorFlow, NLP, MLOps tools, or ML model deployment experience.",
+        "experience": "Only 2 years of experience, which is below the required 4-8 years for a senior role, and experience is in CFD research rather than ML/NLP engineering.",
+        "education": "Education details are missing; however, candidate is from IIT Bombay which suggests strong technical background but no explicit mention of M.Tech or PhD in relevant fields or B.Tech with ML experience.",
+        "location": "Candidate is located in India but no specific mention of Bangalore. Not open to remote work, which may limit flexibility.",
+        "bonus": "No nice-to-have skills such as LLMs, prompt engineering, published ML/NLP research, distributed training, or cloud platform experience."
+      }
+    },
+    {
+      "candidate_id": "CAND-0001",
+      "name": "Vikram Iyer",
+      "current_role": "Full Stack Engineer",
+      "company": "Zoho Corporation",
+      "skills": [
+        "React",
+        "Node.js",
+        "TypeScript",
+        "Django",
+        "PostgreSQL",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "GraphQL",
+        "Microservices"
+      ],
+      "years_experience": 1,
+      "education": null,
+      "preferred_location": "India",
+      "notice_period": "Unknown",
+      "expected_salary_lpa": 0,
+      "current_salary_lpa": 0,
+      "career_goals": "Short summary of goals",
+      "personality_traits": [
+        "Scalable Architecture",
+        "Performance Optimization",
+        "DevOps Practices"
+      ],
+      "open_to_remote": true,
+      "experience_summary": "Full Stack Engineer with 5+ years of experience building scalable web applications and microservices. Pro\ufb01cient in modern JavaScript frameworks, cloud infrastructure, and DevOps practices.",
+      "willingness_to_relocate": true,
+      "match_score": 11.5,
+      "score_breakdown": {
+        "skills": 10,
+        "experience": 10,
+        "education": 0,
+        "location": 50,
+        "bonus": 0
+      },
+      "strengths": [
+        "Strong experience with Docker, Kubernetes, and AWS",
+        "Good background in scalable web applications and microservices",
+        "Familiarity with cloud infrastructure and DevOps practices"
+      ],
+      "gaps": [
+        "No Python, PyTorch, TensorFlow, or NLP experience",
+        "Lacks formal education in relevant fields",
+        "No direct ML engineering or MLOps experience",
+        "No published research or domain expertise in AI/NLP"
+      ],
+      "overall_assessment": "Vikram has strong cloud and DevOps skills but lacks the core machine learning, NLP, and educational background required for a Senior Machine Learning Engineer role. He is not a fit for this position without significant upskilling or role change.",
+      "explanations": {
+        "skills": "Candidate has Docker, Kubernetes, and AWS experience which align with deploying ML models to production and cloud platforms. However, lacks any Python, PyTorch, TensorFlow, NLP, MLOps tools (MLflow, Kubeflow), and statistics/probability skills required for the role.",
+        "experience": "Candidate has 5+ years of experience but primarily as a Full Stack Engineer, not in machine learning or NLP. Only 1 year at current role with relevant cloud and DevOps experience, but no direct ML engineering experience.",
+        "education": "No formal education listed, which is below the minimum requirement of M.Tech/PhD or B.Tech with strong experience.",
+        "location": "Candidate is located in India and open to remote work. Bangalore location is not explicitly stated but India location and remote openness partially align.",
+        "bonus": "No evidence of nice-to-have skills such as LLMs, prompt engineering, published research, distributed training, or domain expertise in AI/NLP/Enterprise Software."
+      }
+    },
+    {
+      "candidate_id": "CAND-0010",
+      "name": "Karan Patel",
+      "current_role": "Data Scientist",
+      "company": "Flipkart",
+      "skills": [
+        "Python",
+        "SQL",
+        "Pandas",
+        "Scikit-learn",
+        "Tableau",
+        "Power BI",
+        "Machine Learning",
+        "A/B Testing",
+        "BigQuery",
+        "Statistical Analysis"
+      ],
+      "years_experience": 0,
+      "education": null,
+      "preferred_location": "India",
+      "notice_period": "Unknown",
+      "expected_salary_lpa": 0,
+      "current_salary_lpa": 0,
+      "career_goals": "Short summary of goals",
+      "personality_traits": [
+        "Business Impact",
+        "Predictive Insights",
+        "Storytelling with Data"
+      ],
+      "open_to_remote": true,
+      "experience_summary": "Data Scientist with expertise in building predictive models, advanced analytics, and data-driven decision systems. Strong background in Python, SQL, and machine learning with proven impact on business metrics.",
+      "willingness_to_relocate": true,
+      "match_score": 11.0,
+      "score_breakdown": {
+        "skills": 15,
+        "experience": 0,
+        "education": 0,
+        "location": 50,
+        "bonus": 0
+      },
+      "strengths": [
+        "Strong Python skills",
+        "Experience with statistical analysis and machine learning basics"
+      ],
+      "gaps": [
+        "No experience with PyTorch or TensorFlow",
+        "No NLP or transformer model experience",
+        "No MLOps or deployment skills",
+        "No relevant education",
+        "No professional experience"
+      ],
+      "overall_assessment": "Karan Patel does not meet the core requirements for the Senior Machine Learning Engineer role due to lack of experience, missing critical technical skills, and no relevant education. The candidate may be suitable for entry-level or junior roles but is not a fit for this senior position.",
+      "explanations": {
+        "skills": "Candidate has Python and general machine learning experience but lacks key must-have skills such as PyTorch, TensorFlow, NLP (transformers, BERT, GPT-family), MLOps tools, and deploying ML models to production.",
+        "experience": "No professional experience in machine learning or related roles; 0 years experience versus required 4-8 years.",
+        "education": "No formal education listed; does not meet minimum educational requirements (M.Tech, PhD, or B.Tech with strong experience).",
+        "location": "Located in India and open to remote work; however, not specifically in Bangalore as required.",
+        "bonus": "No evidence of nice-to-have skills such as LLMs, prompt engineering, published research, distributed training, or cloud platform experience."
+      }
+    },
+    {
+      "candidate_id": "CAND-0007",
+      "name": "Rahul Verma",
+      "current_role": "Senior Construction Engineer",
+      "company": "L&T Construction",
+      "skills": [
+        "Project Management",
+        "Primavera P6",
+        "AutoCAD",
+        "Quantity Surveying",
+        "Cost Control",
+        "Safety Compliance",
+        "Site Supervision",
+        "BOQ Preparation",
+        "Contract Management",
+        "Structural Engineering"
+      ],
+      "years_experience": 5,
+      "education": null,
+      "preferred_location": "India",
+      "notice_period": "Unknown",
+      "expected_salary_lpa": 0,
+      "current_salary_lpa": 0,
+      "career_goals": "Delivering projects on time and within budget.",
+      "personality_traits": null,
+      "open_to_remote": false,
+      "experience_summary": "Construction engineer with 5+ years of experience in large-scale infrastructure projects. Expertise in site management, cost control, quality assurance, and safety compliance.",
+      "willingness_to_relocate": false,
+      "match_score": 10.0,
+      "score_breakdown": {
+        "skills": 0,
+        "experience": 20,
+        "education": 0,
+        "location": 50,
+        "bonus": 0
+      },
+      "strengths": [
+        "5 years of professional experience",
+        "Strong project management and site supervision skills"
+      ],
+      "gaps": [
+        "No relevant ML/NLP technical skills",
+        "No relevant education",
+        "No experience in AI or software domain",
+        "Location and remote work preferences may limit fit"
+      ],
+      "overall_assessment": "Rahul Verma does not match the technical or educational requirements for the Senior Machine Learning Engineer role. While experienced professionally, his background is in construction engineering with no relevant AI/ML skills or education, making him an unsuitable candidate for this position.",
+      "explanations": {
+        "skills": "No relevant machine learning or AI skills such as Python, PyTorch, TensorFlow, NLP, MLOps, or model deployment are present. Candidate's skills are entirely in construction engineering and project management.",
+        "experience": "Has 5 years of professional experience, which fits the required range, but experience is in construction engineering, not machine learning or AI.",
+        "education": "No formal education listed; does not meet minimum educational requirements (M.Tech/PhD or B.Tech with strong experience) for the role.",
+        "location": "Located in India, which partially aligns with Bangalore location requirement, but exact city is not specified. Candidate is not open to remote work, which may limit flexibility.",
+        "bonus": "No nice-to-have skills related to ML/NLP, LLMs, research, distributed training, or cloud platforms. No domain overlap with AI/NLP/Enterprise Software."
+      }
+    },
+    {
+      "candidate_id": "CAND-0005",
+      "name": "Meera Kapoor",
+      "current_role": "UI/UX Designer",
+      "company": "PixelCraft Studio",
+      "skills": [
+        "Figma",
+        "Adobe Creative Suite",
+        "UI/UX Design",
+        "User Research",
+        "Prototyping",
+        "Graphic Design",
+        "Brand Identity",
+        "Motion Graphics",
+        "Webflow",
+        "Design Systems"
+      ],
+      "years_experience": 0,
+      "education": null,
+      "preferred_location": "India",
+      "notice_period": "Unknown",
+      "expected_salary_lpa": 0,
+      "current_salary_lpa": 0,
+      "career_goals": "Short summary of goals",
+      "personality_traits": [
+        "User-Centered Design",
+        "Creative Problem Solving",
+        "Pixel-Perfect Delivery"
+      ],
+      "open_to_remote": true,
+      "experience_summary": "Creative UI/UX and Graphic Designer with multidisciplinary experience in visual communication, user-centered design, and digital product experiences. Expert in crafting intuitive interfaces, brand identities, and motion graphics.",
+      "willingness_to_relocate": true,
+      "match_score": 5.0,
+      "score_breakdown": {
+        "skills": 0,
+        "experience": 0,
+        "education": 0,
+        "location": 50,
+        "bonus": 0
+      },
+      "strengths": [
+        "Strong creative and design skills",
+        "Open to remote work"
+      ],
+      "gaps": [
+        "No relevant ML/NLP skills",
+        "No relevant experience",
+        "No relevant education",
+        "Not located in Bangalore"
+      ],
+      "overall_assessment": "Meera Kapoor does not meet the requirements for the Senior Machine Learning Engineer role. Her background is in UI/UX design with no relevant ML skills, experience, or education, making her an unsuitable candidate for this position.",
+      "explanations": {
+        "skills": "Candidate has no experience or skills related to Python, PyTorch, TensorFlow, NLP, MLOps, deploying ML models, or statistics and probability.",
+        "experience": "No professional experience in machine learning or related fields; current role is UI/UX Designer with 0 years in ML.",
+        "education": "No formal education listed; does not meet minimum educational requirements of M.Tech, PhD, or B.Tech with strong experience.",
+        "location": "Candidate is located in India and open to remote work; however, not specifically in Bangalore as required.",
+        "bonus": "No demonstrated knowledge or experience in nice-to-have skills such as LLMs, published research, distributed training, or cloud platforms."
+      }
+    },
+    {
+      "candidate_id": "CAND-0008",
+      "name": "Anika Singh",
+      "current_role": "HR Manager",
+      "company": "GrowScale Technologies",
+      "skills": [
+        "Talent Acquisition",
+        "Employee Engagement",
+        "Performance Management",
+        "Training & Development",
+        "HR Analytics",
+        "Recruitment Tools",
+        "Compensation & Benefits",
+        "Employee Relations",
+        "Diversity & Inclusion"
+      ],
+      "years_experience": 0,
+      "education": {},
+      "preferred_location": "India",
+      "notice_period": "Unknown",
+      "expected_salary_lpa": 0,
+      "current_salary_lpa": 0,
+      "career_goals": "Short summary of goals",
+      "personality_traits": [
+        "Team Building",
+        "Retention Strategy",
+        "Workplace Culture"
+      ],
+      "open_to_remote": true,
+      "experience_summary": "HR professional with expertise in talent acquisition, employee engagement, and organizational development. Proven ability to build high-performing teams, reduce attrition, and create positive workplace culture in fast-growing organizations.",
+      "willingness_to_relocate": true,
+      "match_score": 5.0,
+      "score_breakdown": {
+        "skills": 0,
+        "experience": 0,
+        "education": 0,
+        "location": 50,
+        "bonus": 0
+      },
+      "strengths": [
+        "Strong HR and talent acquisition expertise",
+        "Experience in building high-performing teams"
+      ],
+      "gaps": [
+        "No technical skills in machine learning or NLP",
+        "No relevant experience in ML engineering",
+        "No relevant education background"
+      ],
+      "overall_assessment": "This candidate does not match the Senior Machine Learning Engineer role requirements in skills, experience, or education. While strong in HR functions, there is no alignment with the technical or domain needs of the position.",
+      "explanations": {
+        "skills": "Candidate has no technical skills related to Python, PyTorch, TensorFlow, NLP, MLOps, or ML model deployment. All required technical skills are missing.",
+        "experience": "Candidate has zero years of experience in machine learning or related technical roles; current experience is in HR management.",
+        "education": "No relevant educational background provided; education details are missing or unrelated to computer science, mathematics, or related fields.",
+        "location": "Candidate is located in India and open to remote work; however, specific location is not Bangalore, which is preferred.",
+        "bonus": "No nice-to-have skills or domain overlap; experience and skills are in HR and talent acquisition, not AI/NLP or enterprise software."
+      }
+    }
+  ],
+  "engaged_candidates": [
+    {
+      "candidate_id": "CAND-0011",
+      "name": "Priya Menon",
+      "current_role": "Machine Learning Engineer",
+      "company": "TechNova AI",
+      "skills": [
+        "Machine Learning",
+        "Deep Learning",
+        "Model Deployment",
+        "Computer Vision",
+        "NLP",
+        "Recommendation Engines",
+        "MLOps",
+        "Kubernetes",
+        "PyTorch",
+        "TensorFlow",
+        "MLflow",
+        "Docker",
+        "Quantization",
+        "LoRA",
+        "QLoRA"
+      ],
+      "years_experience": 0,
+      "education": null,
+      "preferred_location": "India",
+      "notice_period": "Unknown",
+      "expected_salary_lpa": 0,
+      "current_salary_lpa": 0,
+      "career_goals": "Short summary of goals",
+      "personality_traits": null,
+      "open_to_remote": true,
+      "experience_summary": "Machine Learning Engineer with strong expertise in building scalable deep learning models, MLOps pipelines, and production-grade AI systems. Focused on computer vision, NLP, and recommendation engines with emphasis on model efficiency and real-time inference.",
+      "willingness_to_relocate": true,
+      "match_score": 37.0,
+      "score_breakdown": {
+        "skills": 70,
+        "experience": 0,
+        "education": 0,
+        "location": 50,
+        "bonus": 40
+      },
+      "strengths": [
+        "Strong hands-on skills with PyTorch, TensorFlow, MLflow, Kubernetes, Docker",
+        "Experience in NLP and MLOps pipelines",
+        "Focus on scalable and production-grade AI systems"
+      ],
+      "gaps": [
+        "No professional experience (0 years) for senior role",
+        "No formal education credentials",
+        "Missing explicit experience with transformers (BERT, GPT-family) and statistics/probability",
+        "Location not Bangalore"
+      ],
+      "overall_assessment": "Priya demonstrates strong technical skills relevant to the role but lacks the required professional experience and formal education for a senior position. Location and some specific NLP expertise gaps further reduce fit. Suitable for more junior roles or internships rather than this senior role.",
+      "explanations": {
+        "skills": "Candidate has strong skills in Python-related ML frameworks PyTorch and TensorFlow, NLP, MLOps tools like MLflow, Kubernetes, Docker, and model deployment. Missing explicit mention of transformers, BERT, GPT-family models, and statistics/probability knowledge.",
+        "experience": "Candidate has 0 years of experience, which is far below the required 4-8 years for a senior role.",
+        "education": "No formal education listed, whereas the job requires M.Tech or PhD, or at least B.Tech with strong experience.",
+        "location": "Candidate is located in India and open to remote work, but not explicitly in Bangalore as required.",
+        "bonus": "Has domain experience in NLP and MLOps, and knowledge of advanced model efficiency techniques like Quantization, LoRA, QLoRA. No mention of published research, distributed training, or cloud platforms."
+      },
+      "interest_score": 50,
+      "interest_breakdown": {},
+      "interest_explanations": {},
+      "key_signals": [
+        "Conversation failed: can only join an iterable"
+      ],
+      "conversation_summary": "Conversation could not be completed.",
+      "transcript": [],
+      "conversation_text": "",
+      "actual_turns": 0,
+      "max_turns_allowed": 6,
+      "combined_score": 42.2,
+      "recommendation": "No",
+      "final_reasoning": "Despite strong technical skills, the candidate has no professional experience at the senior level and incomplete conversation, making her unsuitable for immediate consideration for this senior role.",
+      "risk_factors": [
+        "No professional senior experience",
+        "Incomplete conversation",
+        "Missing formal education credentials"
+      ],
+      "next_steps": "Disqualify from current senior role; consider for entry-level or junior positions if relevant."
+    },
+    {
+      "candidate_id": "CAND-0009",
+      "name": "Priya Menon",
+      "current_role": "Machine Learning Engineer",
+      "company": "TechNova AI",
+      "skills": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "MLOps",
+        "Kubernetes",
+        "Deep Learning",
+        "Model Optimization",
+        "Computer Vision",
+        "NLP",
+        "MLflow",
+        "Docker",
+        "Quantization",
+        "LoRA / QLoRA"
+      ],
+      "years_experience": 0,
+      "education": {},
+      "preferred_location": "India",
+      "notice_period": "Unknown",
+      "expected_salary_lpa": 0,
+      "current_salary_lpa": 0,
+      "career_goals": "Short summary of goals",
+      "personality_traits": [
+        "Scalable Model Deployment",
+        "Production Inference",
+        "Performance Optimization",
+        "Data-Driven Decisions"
+      ],
+      "open_to_remote": true,
+      "experience_summary": "Machine Learning Engineer with strong expertise in building scalable deep learning models, MLOps pipelines, and production-grade AI systems. Focused on computer vision, NLP, and recommendation engines with emphasis on model efficiency and real-time inference.",
+      "willingness_to_relocate": true,
+      "match_score": 37.0,
+      "score_breakdown": {
+        "skills": 70,
+        "experience": 0,
+        "education": 0,
+        "location": 50,
+        "bonus": 40
+      },
+      "strengths": [
+        "Strong hands-on skills in core ML frameworks (PyTorch, TensorFlow)",
+        "Experience with MLOps tools like MLflow, Docker, Kubernetes",
+        "Focus on scalable, production-grade AI systems and NLP"
+      ],
+      "gaps": [
+        "No professional experience (0 years) for a senior role",
+        "Missing explicit education credentials",
+        "No clear evidence of working with transformers/BERT/GPT-family models or statistics/probability"
+      ],
+      "overall_assessment": "Priya has strong technical skills aligned with many must-have requirements but lacks the required professional experience and clear educational background for a senior position. Location and some specific skills gaps further reduce fit for this role.",
+      "explanations": {
+        "skills": "Candidate has strong skills in Python, PyTorch, TensorFlow, NLP, MLOps tools (MLflow), Docker, and Kubernetes. Missing explicit mention of transformers, BERT, GPT-family models, and statistics/probability knowledge. Also, no direct mention of Kubeflow or similar MLOps tools beyond MLflow and Kubernetes.",
+        "experience": "Candidate has 0 years of experience, which is significantly below the required 4-8 years for a senior role.",
+        "education": "Education details are missing or incomplete, so cannot assess fit against M.Tech, PhD, or B.Tech requirements.",
+        "location": "Candidate is located in India and open to remote work, but not specifically in Bangalore as required.",
+        "bonus": "Candidate shows knowledge of LoRA/QLoRA (related to LLMs), model optimization, and production-grade AI systems, which are relevant. No mention of published research, distributed training, or cloud platforms like AWS/GCP."
+      },
+      "interest_score": 49.75,
+      "interest_breakdown": {
+        "enthusiasm": 80,
+        "availability": 60,
+        "salary_alignment": 0,
+        "role_fit_perception": 85,
+        "red_flags": 20
+      },
+      "interest_explanations": {
+        "enthusiasm": "The candidate expressed clear interest in the role, highlighting passion for production NLP and LLMs, and willingness to engage in further discussions despite not actively job hunting.",
+        "availability": "Candidate mentioned a flexible notice period but is not actively looking, indicating moderate readiness to transition if the fit is right.",
+        "salary": "Candidate did not provide expected salary information, so alignment with the offered 25-45 LPA range is unknown.",
+        "role_fit": "Candidate feels confident about their experience with BERT/GPT models and production scaling, and is interested in the senior role's challenges and team culture.",
+        "red_flags": "Candidate is currently happy at their job and not actively searching, which could limit urgency or commitment; however, they remain open and engaged."
+      },
+      "key_signals": [
+        "Expressed passion for deploying scalable NLP and LLM systems",
+        "Flexible notice period despite not actively job hunting",
+        "Interest in team culture, learning, and ownership",
+        "Comfortable with senior-level technical expectations"
+      ],
+      "conversation_summary": "Priya is interested in exploring the Senior ML Engineer role further, especially given its focus on production NLP and LLMs. While not actively seeking a new job, she is open to opportunities that align well with her skills and values, and is willing to proceed with formal interviews to assess mutual fit.",
+      "transcript": [
+        {
+          "role": "recruiter",
+          "turn": 1,
+          "message": "Hi Priya, I\u2019m a tech recruiter reaching out about a Senior Machine Learning Engineer role based in Bangalore (25-45 LPA). I was really impressed by your hands-on work with PyTorch and TensorFlow, as well as your focus on production-grade NLP systems at TechNova AI. Would you be open to a quick chat to explore if this opportunity aligns with your interests?"
+        },
+        {
+          "role": "candidate",
+          "turn": 1,
+          "message": "Hi, thanks so much for reaching out and for your kind words! The Senior ML Engineer role sounds interesting, especially since I\u2019m passionate about deploying scalable NLP systems in production. I\u2019m definitely open to a quick chat to learn more about the team, the kind of projects you\u2019re working on, and how my background might fit. Remote or hybrid options would be a big plus for me\u2014would that be possible for this role?"
+        },
+        {
+          "role": "recruiter",
+          "turn": 2,
+          "message": "Thanks so much for your interest, Priya! This role focuses on building and scaling NLP solutions (including work with large language models) for real-world applications, and the team values hands-on engineers who enjoy tackling production challenges. There\u2019s some flexibility for hybrid work\u2014could you share if you\u2019re actively exploring new roles or just open to hearing about interesting opportunities?"
+        },
+        {
+          "role": "candidate",
+          "turn": 2,
+          "message": "Thanks for clarifying! I\u2019m not actively job hunting right now, but I\u2019m always open to hearing about roles that align with my interests\u2014especially those focused on production NLP and LLMs. The hybrid setup is promising, and I\u2019d love to learn more about the team\u2019s approach to scaling models and any unique challenges you\u2019re tackling."
+        },
+        {
+          "role": "recruiter",
+          "turn": 3,
+          "message": "Thanks for sharing your interests, Priya! Given that this is a senior-level role (Bangalore, 25\u201345 LPA), the team is looking for experience with large language models like BERT or GPT, as well as a strong foundation in statistics and probability. How comfortable would you feel ramping up quickly in these areas if you were to join a senior team?"
+        },
+        {
+          "role": "candidate",
+          "turn": 3,
+          "message": "Thanks for being upfront about the expectations! I\u2019ve worked hands-on with BERT and GPT-style models in production settings, and I\u2019m comfortable with the practical aspects of scaling and optimizing them. While my formal experience with statistics and probability is more applied than academic, I\u2019m confident in my ability to ramp up quickly, especially when it comes to solving real-world ML problems. I\u2019m definitely interested in learning more about the team\u2019s workflow and how you support engineers transitioning into senior roles."
+        },
+        {
+          "role": "recruiter",
+          "turn": 4,
+          "message": "Thanks for sharing your experience and enthusiasm, Priya! To help us plan next steps, could you let me know your notice period or availability, and what\u2019s most important to you in your next role (e.g., team culture, learning opportunities, impact, etc.)?"
+        },
+        {
+          "role": "candidate",
+          "turn": 4,
+          "message": "Thanks for asking! My current notice period is flexible since I\u2019m not actively job searching, so I could coordinate a transition if the fit is right. What matters most to me is joining a team that values collaboration, supports continuous learning, and gives engineers real ownership over impactful projects\u2014especially around deploying and optimizing LLMs in production. I\u2019m happy to chat further to see if there\u2019s a strong mutual fit!"
+        },
+        {
+          "role": "recruiter",
+          "turn": 5,
+          "message": "Thank you so much for sharing your priorities and flexibility, Priya\u2014I really appreciate your openness and thoughtful approach. Based on what you\u2019ve shared, I think you\u2019d have a lot to contribute and gain from this team. Would you be interested in moving forward with a formal interview to explore the fit in more detail?"
+        },
+        {
+          "role": "candidate",
+          "turn": 5,
+          "message": "Thanks so much for the kind words and for considering me for the next steps! I\u2019d be happy to move forward with a formal interview to learn more about the team and the role in detail. I\u2019m still quite happy at TechNova AI, so I want to make sure there\u2019s a strong mutual fit, but I\u2019m genuinely interested in exploring this further. Please let me know what the next steps would look like!"
+        }
+      ],
+      "conversation_text": "\nRecruiter: Hi Priya, I\u2019m a tech recruiter reaching out about a Senior Machine Learning Engineer role based in Bangalore (25-45 LPA). I was really impressed by your hands-on work with PyTorch and TensorFlow, as well as your focus on production-grade NLP systems at TechNova AI. Would you be open to a quick chat to explore if this opportunity aligns with your interests?\nCandidate: Hi, thanks so much for reaching out and for your kind words! The Senior ML Engineer role sounds interesting, especially since I\u2019m passionate about deploying scalable NLP systems in production. I\u2019m definitely open to a quick chat to learn more about the team, the kind of projects you\u2019re working on, and how my background might fit. Remote or hybrid options would be a big plus for me\u2014would that be possible for this role?\nRecruiter: Thanks so much for your interest, Priya! This role focuses on building and scaling NLP solutions (including work with large language models) for real-world applications, and the team values hands-on engineers who enjoy tackling production challenges. There\u2019s some flexibility for hybrid work\u2014could you share if you\u2019re actively exploring new roles or just open to hearing about interesting opportunities?\nCandidate: Thanks for clarifying! I\u2019m not actively job hunting right now, but I\u2019m always open to hearing about roles that align with my interests\u2014especially those focused on production NLP and LLMs. The hybrid setup is promising, and I\u2019d love to learn more about the team\u2019s approach to scaling models and any unique challenges you\u2019re tackling.\nRecruiter: Thanks for sharing your interests, Priya! Given that this is a senior-level role (Bangalore, 25\u201345 LPA), the team is looking for experience with large language models like BERT or GPT, as well as a strong foundation in statistics and probability. How comfortable would you feel ramping up quickly in these areas if you were to join a senior team?\nCandidate: Thanks for being upfront about the expectations! I\u2019ve worked hands-on with BERT and GPT-style models in production settings, and I\u2019m comfortable with the practical aspects of scaling and optimizing them. While my formal experience with statistics and probability is more applied than academic, I\u2019m confident in my ability to ramp up quickly, especially when it comes to solving real-world ML problems. I\u2019m definitely interested in learning more about the team\u2019s workflow and how you support engineers transitioning into senior roles.\nRecruiter: Thanks for sharing your experience and enthusiasm, Priya! To help us plan next steps, could you let me know your notice period or availability, and what\u2019s most important to you in your next role (e.g., team culture, learning opportunities, impact, etc.)?\nCandidate: Thanks for asking! My current notice period is flexible since I\u2019m not actively job searching, so I could coordinate a transition if the fit is right. What matters most to me is joining a team that values collaboration, supports continuous learning, and gives engineers real ownership over impactful projects\u2014especially around deploying and optimizing LLMs in production. I\u2019m happy to chat further to see if there\u2019s a strong mutual fit!\nRecruiter: Thank you so much for sharing your priorities and flexibility, Priya\u2014I really appreciate your openness and thoughtful approach. Based on what you\u2019ve shared, I think you\u2019d have a lot to contribute and gain from this team. Would you be interested in moving forward with a formal interview to explore the fit in more detail?\nCandidate: Thanks so much for the kind words and for considering me for the next steps! I\u2019d be happy to move forward with a formal interview to learn more about the team and the role in detail. I\u2019m still quite happy at TechNova AI, so I want to make sure there\u2019s a strong mutual fit, but I\u2019m genuinely interested in exploring this further. Please let me know what the next steps would look like!",
+      "actual_turns": 5,
+      "max_turns_allowed": 6,
+      "combined_score": 42.1,
+      "recommendation": "Maybe",
+      "final_reasoning": "Priya demonstrates strong technical skills and relevant experience in core ML and NLP, with genuine interest in the role; however, lack of formal senior-level experience and specific expertise in transformers or advanced statistical methods introduces some risk.",
+      "risk_factors": [
+        "Lack of formal senior experience",
+        "Limited exposure to transformers (BERT, GPT)",
+        "Unverified educational credentials"
+      ],
+      "next_steps": "Proceed with formal interviews to assess depth of expertise and fit, and clarify her experience with advanced NLP models."
+    }
+  ],
+  "final_shortlist": [
+    {
+      "rank": 1,
+      "candidate_id": "CAND-0011",
+      "name": "Priya Menon",
+      "current_role": "Machine Learning Engineer",
+      "company": "TechNova AI",
+      "match_score": 37.0,
+      "interest_score": 50,
+      "combined_score": 42.2,
+      "recommendation": "No",
+      "strengths": [
+        "Strong hands-on skills with PyTorch, TensorFlow, MLflow, Kubernetes, Docker",
+        "Experience in NLP and MLOps pipelines",
+        "Focus on scalable and production-grade AI systems"
+      ],
+      "gaps": [
+        "No professional experience (0 years) for senior role",
+        "No formal education credentials",
+        "Missing explicit experience with transformers (BERT, GPT-family) and statistics/probability",
+        "Location not Bangalore"
+      ],
+      "score_breakdown": {
+        "skills": 70,
+        "experience": 0,
+        "education": 0,
+        "location": 50,
+        "bonus": 40
+      },
+      "interest_breakdown": {},
+      "conversation_summary": "Conversation could not be completed.",
+      "key_signals": [
+        "Conversation failed: can only join an iterable"
+      ],
+      "transcript": [],
+      "final_reasoning": "Despite strong technical skills, the candidate has no professional experience at the senior level and incomplete conversation, making her unsuitable for immediate consideration for this senior role.",
+      "risk_factors": [
+        "No professional senior experience",
+        "Incomplete conversation",
+        "Missing formal education credentials"
+      ],
+      "next_steps": "Disqualify from current senior role; consider for entry-level or junior positions if relevant.",
+      "explanations": {
+        "skills": "Candidate has strong skills in Python-related ML frameworks PyTorch and TensorFlow, NLP, MLOps tools like MLflow, Kubernetes, Docker, and model deployment. Missing explicit mention of transformers, BERT, GPT-family models, and statistics/probability knowledge.",
+        "experience": "Candidate has 0 years of experience, which is far below the required 4-8 years for a senior role.",
+        "education": "No formal education listed, whereas the job requires M.Tech or PhD, or at least B.Tech with strong experience.",
+        "location": "Candidate is located in India and open to remote work, but not explicitly in Bangalore as required.",
+        "bonus": "Has domain experience in NLP and MLOps, and knowledge of advanced model efficiency techniques like Quantization, LoRA, QLoRA. No mention of published research, distributed training, or cloud platforms."
+      },
+      "interest_explanations": {},
+      "actual_turns": 0,
+      "max_turns_allowed": 6
+    },
+    {
+      "rank": 2,
+      "candidate_id": "CAND-0009",
+      "name": "Priya Menon",
+      "current_role": "Machine Learning Engineer",
+      "company": "TechNova AI",
+      "match_score": 37.0,
+      "interest_score": 49.75,
+      "combined_score": 42.1,
+      "recommendation": "Maybe",
+      "strengths": [
+        "Strong hands-on skills in core ML frameworks (PyTorch, TensorFlow)",
+        "Experience with MLOps tools like MLflow, Docker, Kubernetes",
+        "Focus on scalable, production-grade AI systems and NLP"
+      ],
+      "gaps": [
+        "No professional experience (0 years) for a senior role",
+        "Missing explicit education credentials",
+        "No clear evidence of working with transformers/BERT/GPT-family models or statistics/probability"
+      ],
+      "score_breakdown": {
+        "skills": 70,
+        "experience": 0,
+        "education": 0,
+        "location": 50,
+        "bonus": 40
+      },
+      "interest_breakdown": {
+        "enthusiasm": 80,
+        "availability": 60,
+        "salary_alignment": 0,
+        "role_fit_perception": 85,
+        "red_flags": 20
+      },
+      "conversation_summary": "Priya is interested in exploring the Senior ML Engineer role further, especially given its focus on production NLP and LLMs. While not actively seeking a new job, she is open to opportunities that align well with her skills and values, and is willing to proceed with formal interviews to assess mutual fit.",
+      "key_signals": [
+        "Expressed passion for deploying scalable NLP and LLM systems",
+        "Flexible notice period despite not actively job hunting",
+        "Interest in team culture, learning, and ownership",
+        "Comfortable with senior-level technical expectations"
+      ],
+      "transcript": [
+        {
+          "role": "recruiter",
+          "turn": 1,
+          "message": "Hi Priya, I\u2019m a tech recruiter reaching out about a Senior Machine Learning Engineer role based in Bangalore (25-45 LPA). I was really impressed by your hands-on work with PyTorch and TensorFlow, as well as your focus on production-grade NLP systems at TechNova AI. Would you be open to a quick chat to explore if this opportunity aligns with your interests?"
+        },
+        {
+          "role": "candidate",
+          "turn": 1,
+          "message": "Hi, thanks so much for reaching out and for your kind words! The Senior ML Engineer role sounds interesting, especially since I\u2019m passionate about deploying scalable NLP systems in production. I\u2019m definitely open to a quick chat to learn more about the team, the kind of projects you\u2019re working on, and how my background might fit. Remote or hybrid options would be a big plus for me\u2014would that be possible for this role?"
+        },
+        {
+          "role": "recruiter",
+          "turn": 2,
+          "message": "Thanks so much for your interest, Priya! This role focuses on building and scaling NLP solutions (including work with large language models) for real-world applications, and the team values hands-on engineers who enjoy tackling production challenges. There\u2019s some flexibility for hybrid work\u2014could you share if you\u2019re actively exploring new roles or just open to hearing about interesting opportunities?"
+        },
+        {
+          "role": "candidate",
+          "turn": 2,
+          "message": "Thanks for clarifying! I\u2019m not actively job hunting right now, but I\u2019m always open to hearing about roles that align with my interests\u2014especially those focused on production NLP and LLMs. The hybrid setup is promising, and I\u2019d love to learn more about the team\u2019s approach to scaling models and any unique challenges you\u2019re tackling."
+        },
+        {
+          "role": "recruiter",
+          "turn": 3,
+          "message": "Thanks for sharing your interests, Priya! Given that this is a senior-level role (Bangalore, 25\u201345 LPA), the team is looking for experience with large language models like BERT or GPT, as well as a strong foundation in statistics and probability. How comfortable would you feel ramping up quickly in these areas if you were to join a senior team?"
+        },
+        {
+          "role": "candidate",
+          "turn": 3,
+          "message": "Thanks for being upfront about the expectations! I\u2019ve worked hands-on with BERT and GPT-style models in production settings, and I\u2019m comfortable with the practical aspects of scaling and optimizing them. While my formal experience with statistics and probability is more applied than academic, I\u2019m confident in my ability to ramp up quickly, especially when it comes to solving real-world ML problems. I\u2019m definitely interested in learning more about the team\u2019s workflow and how you support engineers transitioning into senior roles."
+        },
+        {
+          "role": "recruiter",
+          "turn": 4,
+          "message": "Thanks for sharing your experience and enthusiasm, Priya! To help us plan next steps, could you let me know your notice period or availability, and what\u2019s most important to you in your next role (e.g., team culture, learning opportunities, impact, etc.)?"
+        },
+        {
+          "role": "candidate",
+          "turn": 4,
+          "message": "Thanks for asking! My current notice period is flexible since I\u2019m not actively job searching, so I could coordinate a transition if the fit is right. What matters most to me is joining a team that values collaboration, supports continuous learning, and gives engineers real ownership over impactful projects\u2014especially around deploying and optimizing LLMs in production. I\u2019m happy to chat further to see if there\u2019s a strong mutual fit!"
+        },
+        {
+          "role": "recruiter",
+          "turn": 5,
+          "message": "Thank you so much for sharing your priorities and flexibility, Priya\u2014I really appreciate your openness and thoughtful approach. Based on what you\u2019ve shared, I think you\u2019d have a lot to contribute and gain from this team. Would you be interested in moving forward with a formal interview to explore the fit in more detail?"
+        },
+        {
+          "role": "candidate",
+          "turn": 5,
+          "message": "Thanks so much for the kind words and for considering me for the next steps! I\u2019d be happy to move forward with a formal interview to learn more about the team and the role in detail. I\u2019m still quite happy at TechNova AI, so I want to make sure there\u2019s a strong mutual fit, but I\u2019m genuinely interested in exploring this further. Please let me know what the next steps would look like!"
+        }
+      ],
+      "final_reasoning": "Priya demonstrates strong technical skills and relevant experience in core ML and NLP, with genuine interest in the role; however, lack of formal senior-level experience and specific expertise in transformers or advanced statistical methods introduces some risk.",
+      "risk_factors": [
+        "Lack of formal senior experience",
+        "Limited exposure to transformers (BERT, GPT)",
+        "Unverified educational credentials"
+      ],
+      "next_steps": "Proceed with formal interviews to assess depth of expertise and fit, and clarify her experience with advanced NLP models.",
+      "explanations": {
+        "skills": "Candidate has strong skills in Python, PyTorch, TensorFlow, NLP, MLOps tools (MLflow), Docker, and Kubernetes. Missing explicit mention of transformers, BERT, GPT-family models, and statistics/probability knowledge. Also, no direct mention of Kubeflow or similar MLOps tools beyond MLflow and Kubernetes.",
+        "experience": "Candidate has 0 years of experience, which is significantly below the required 4-8 years for a senior role.",
+        "education": "Education details are missing or incomplete, so cannot assess fit against M.Tech, PhD, or B.Tech requirements.",
+        "location": "Candidate is located in India and open to remote work, but not specifically in Bangalore as required.",
+        "bonus": "Candidate shows knowledge of LoRA/QLoRA (related to LLMs), model optimization, and production-grade AI systems, which are relevant. No mention of published research, distributed training, or cloud platforms like AWS/GCP."
+      },
+      "interest_explanations": {
+        "enthusiasm": "The candidate expressed clear interest in the role, highlighting passion for production NLP and LLMs, and willingness to engage in further discussions despite not actively job hunting.",
+        "availability": "Candidate mentioned a flexible notice period but is not actively looking, indicating moderate readiness to transition if the fit is right.",
+        "salary": "Candidate did not provide expected salary information, so alignment with the offered 25-45 LPA range is unknown.",
+        "role_fit": "Candidate feels confident about their experience with BERT/GPT models and production scaling, and is interested in the senior role's challenges and team culture.",
+        "red_flags": "Candidate is currently happy at their job and not actively searching, which could limit urgency or commitment; however, they remain open and engaged."
+      },
+      "actual_turns": 5,
+      "max_turns_allowed": 6
+    }
+  ],
+  "logs": [
+    "InParseGent: Parsed JD for role 'Senior Machine Learning Engineer' (self-correction: not needed)",
+    "ScoutGent: Scored 11 candidates. Top: Priya Menon (37.0)",
+    "ConvoGent: Engaged 2 candidates (adaptive, max 6 turns)",
+    "FinalGent: Final ranking of 2 candidates complete. Top: Priya Menon (42.2)"
+  ],
+  "max_turns": 6
+}

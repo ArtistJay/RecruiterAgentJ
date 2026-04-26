@@ -1,0 +1,34 @@
+{
+  "name": "Vikram Iyer",
+  "current_role": "Full Stack Engineer",
+  "company": "Zoho Corporation",
+  "years_experience": 1,
+  "skills": [
+    "React",
+    "Node.js",
+    "TypeScript",
+    "Django",
+    "PostgreSQL",
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "GraphQL",
+    "Microservices"
+  ],
+  "education": null,
+  "experience_summary": "Full Stack Engineer with 5+ years of experience building scalable web applications and microservices. Pro\ufb01cient in modern JavaScript frameworks, cloud infrastructure, and DevOps practices.",
+  "personality_traits": [
+    "Scalable Architecture",
+    "Performance Optimization",
+    "DevOps Practices"
+  ],
+  "notice_period": "Unknown",
+  "expected_salary_lpa": 0,
+  "current_salary_lpa": 0,
+  "preferred_location": "India",
+  "open_to_remote": true,
+  "career_goals": "Short summary of goals",
+  "willingness_to_relocate": true,
+  "candidate_id": "CAND-0001",
+  "resume_filename": "C09.pdf"
+}
